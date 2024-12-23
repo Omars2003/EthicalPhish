@@ -1,7 +1,7 @@
 # EthicalPhish - Herramienta de Simulación de Phishing
 
 
-Zphisher es una herramienta de ciberseguridad diseñada para simular ataques de phishing con fines educativos y de prueba. Su objetivo principal es capacitar a usuarios y profesionales en la identificación y mitigación de intentos de phishing, mejorando la seguridad en entornos organizacionales y personales, usado para el proyecto de sistemas operativos.
+ EthicalPhish uso el open source Zphisher , una herramienta de ciberseguridad diseñada para simular ataques de phishing con fines educativos y de prueba. Su objetivo principal es capacitar a usuarios y profesionales en la identificación y mitigación de intentos de phishing, mejorando la seguridad en entornos organizacionales y personales, usado para el proyecto de sistemas operativos.
 
 Fines Educativos y Profesionales
 
@@ -73,13 +73,7 @@ Ambientes controlados con autorización previa.
 
 Simulaciones éticas para educar y proteger.
 
-El uso indebido de esta herramienta para actividades maliciosas es ilegal y puede resultar en sanciones graves.
-
-Autor y Contribuciones
-
 Desarrollado por htr-tech.
-
-Puedes contribuir al proyecto mediante pull requests y sugerencias en el repositorio oficial.
 
 Licencia
 
